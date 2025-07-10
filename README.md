@@ -1,10 +1,11 @@
-<!-- Massive, Image-Rich Portfolio README for iam-dharun -->
-
-[![Dharun Kumar S H](https://i.postimg.cc/NGkvFSF8/hero.jpg)](https://dharunkumar.web.app)
-
-<h1 align="center">Dharun Kumar S H — Aspiring Frontend Developer & React Enthusiast</h1>
 <p align="center">
-  <img src="https://postimg.cc/Zv63MtH1" alt="iam-dharun Avatar" width="160" style="border-radius:50%" />
+  <img src="https://i.postimg.cc/NGkvFSF8/hero.jpg" alt="Hero Banner" width="100%" height="500px" />
+</p>
+
+<h1 align="center">Dharun Kumar S H</h1> 
+<h3 align="center">Aspiring Frontend Developer & React Enthusiast</h3>
+<p align="center">
+  <img src="https://i.postimg.cc/cCbm6dn4/Professional-Photo.png" alt="iam-dharun Avatar" width="160" style="border-radius:50%" />
 </p>
 <p align="center">
   <b>Crafting clean, animated, and user-friendly frontends — one component at a time.</b>
@@ -17,7 +18,7 @@
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,framer,gsap,threejs,nextjs,typescript,git,github,figma" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,framer,nextjs,vuejs,bootstrap,typescript,firebase,git,github" height="48" />
 </p>
 
 ---
@@ -27,15 +28,8 @@
 ### 🎨 Velvet Pour – Cocktail Brand Landing Page
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-id/velvet-pour-mockup.png" alt="Velvet Pour Screenshot" width="600"/>
+  <img src="https://i.postimg.cc/rwfrTMvD/Screenshot-2025-07-10-200508.png" alt="Velvet Pour Screenshot" width="1500"/>
 </p>
-
-- **Stack:** React + GSAP + Tailwind
-- **Features:** Motion-rich UI, scroll animations, mobile-first
-- [GitHub Repo](https://github.com/iam-dharun/velvet-pour)
-- ![Animated Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY4ZjQ4ZTFkYzIxZGQxZGU4MTc2NDA3ZWYyNjg1YjE3ZjA2YTQxOCZjdD1n/3o7abB06u9bNzA8lu8/giphy.gif)
-
----
 
 ### 🧠 AI Resume Analyzer
 
