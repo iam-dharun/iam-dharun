@@ -2,9 +2,9 @@
 
 [![Dharun Kumar S H](https://i.postimg.cc/NGkvFSF8/hero.jpg)](https://dharunkumar.web.app)
 
-<h1 align="center">🖤 iam-dharun — Frontend Developer & React Enthusiast</h1>
+<h1 align="center">Dharun Kumar S H — Aspiring Frontend Developer & React Enthusiast</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="iam-dharun Avatar" width="160" style="border-radius:50%" />
+  <img src="https://postimg.cc/Zv63MtH1" alt="iam-dharun Avatar" width="160" style="border-radius:50%" />
 </p>
 <p align="center">
   <b>Crafting clean, animated, and user-friendly frontends — one component at a time.</b>
