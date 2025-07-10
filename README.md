@@ -1,8 +1,6 @@
 <!-- Massive, Image-Rich Portfolio README for iam-dharun -->
 
-<p align="center">
-  <img src="[hero.png](https://i.postimg.cc/NGkvFSF8/hero.jpg)" alt="Hero Banner" width="100%" />
-</p>
+[![Dharun Kumar S H](https://i.postimg.cc/NGkvFSF8/hero.jpg)](https://dharunkumar.web.app)
 
 <h1 align="center">🖤 iam-dharun — Frontend Developer & React Enthusiast</h1>
 <p align="center">
