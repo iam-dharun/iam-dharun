@@ -7,7 +7,8 @@ Aspiring Frontend Developer | React Enthusiast
 - 3rd Year IT Student at Meenakshi Sundararajan Engineering College,
 - **Social Presence**
 <br /> [<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/DharunSH0302006) [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dharun-kumar-sh/)
- [<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/iam.dharunkumar/)
+ [<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/iam.dharunkumar/) [<img src="https://skillicons.dev/icons?i=discord" />](https://discordapp.com/users/iam_dharunkumar)
+[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:iam.dharunkumarsh@gmail.com)
 
 ### I code in
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,c,cpp,java,sass,tailwind,flask,nodejs,materialui,replit,mysql,mongodb,py,supabase" />
